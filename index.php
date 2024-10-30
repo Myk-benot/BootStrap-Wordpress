@@ -62,18 +62,6 @@ get_header();
   </div>
 </section>
 
-
-
-    <!-- Contact Section -->
-    <section id="contact" class="container my-5">
-  <h2 class="text-center text-danger mb-4">Newsletter</h2>
-  <div class="w-50 mx-auto flex-column">
-    <?php echo do_shortcode('[wpforms id="11" title="false"]'); ?>
-  </div>
-</section>
-
-
-
 <?php
 get_footer();
 ?>  

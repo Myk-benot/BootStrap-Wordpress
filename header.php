@@ -8,7 +8,7 @@
 
 <body <?php body_class('bg-black text-white'); ?>>
     <header class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-black">
             <div class="container">
                 <!-- Logo or Site Name -->
                 <?php
